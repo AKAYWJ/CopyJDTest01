@@ -1,0 +1,8 @@
+{
+    "port":3000,
+    "wacth":true,
+    "static":"./public",
+    "read-only":false,
+    "no-cors":false,
+    "no-gzip":false
+}

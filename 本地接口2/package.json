@@ -1,0 +1,5 @@
+{
+	"scripts": {
+		"dev": "json-server --c json_server_config.json db.json"
+	}
+}

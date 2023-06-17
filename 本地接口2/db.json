@@ -1,0 +1,272 @@
+{
+  "Supperusers": [
+    {
+      "IdNumber": "AKAYWJ",
+      "PassWord": "ywj666666"
+    }
+  ],
+  "HomeImags": [
+    {
+      "id": 1,
+      "link": "HomeImage",
+      "src": "https://img11.360buyimg.com/babel/s1180x940_jfs/t20260531/119661/16/34059/43172/64789978F8209716a/1b83610695ae6d6f.jpg.webp"
+    },
+    {
+      "id": 2,
+      "link": "HomeImage",
+      "src": "https://imgcps.jd.com/img-cubic/creative_server_cia_jdcloud/v2/2000366/7504061/FocusFullshop/CkRqZnMvdDEvMTMzMTI1LzE4LzM3ODU0LzE3Nzg4MS82NDZmYjcxOEYwZmFhNjI2Ny9jNmNkOWM4NjY3ZDRlYjliLnBuZxIJNS10eV8wXzU2MAI47ot6QhMKD-S4iemDvea4r-mxvOexuxABQhEKDeenkuadgOS7tzY2LjkQAkIQCgznq4vljbPmiqLotK0QBkIKCgbkvJjotKgQB1i9gcoD/cr/s/q.jpg"
+    },
+    {
+      "id": 3,
+      "link": "HomeImage",
+      "src": "https://imgcps.jd.com/img-cubic/creative_server_cia_jdcloud/v2/2000367/100045407963/FocusFullshop/CkRqZnMvdDEvMTgzMzMyLzE5LzM1MDQ4LzMwODg0MC82NDc2NGJjOEZmMzBkZTZmNC84YmE5ZmJmMjU2MDNiNjgwLnBuZxIJMy10eV8wXzU0MAI474t6QhkKFeacuuaisOmdqeWRveeslOiusOacrBABQhAKDOWKsueIhuWVhuWTgRACQhAKDOeri-WNs-aKoui0rRAGQgoKBuS8mOi0qBAHWNuNr9n0Ag/cr/s/q.jpg"
+    },
+    {
+      "id": 4,
+      "link": "HomeImage",
+      "src": "https://imgcps.jd.com/ling-cubic/ling4/lab/amZzL3QxLzExNjAzNi8xMS8zNDA3Ni85NjUyNS82M2RjYTZjMEZkMTc5ODg4ZS8yNTA3YTY5ZTI4M2VjMTY3LnBuZw/5Lqs6YCJ5aW96LSn/5L2g5YC85b6X5oul5pyJ/1635187874214178818/cr/s/q.jpg"
+    },
+    {
+      "id": 5,
+      "link": "HomeImage",
+      "src": "https://imgcps.jd.com/img-cubic/creative_server_cia_jdcloud/v2/2000368/4491126/FocusFullshop/CkJqZnMvdDEvMjA2NTQ3LzQvMzUyMjMvNDcyMTMvNjQ3MjU4Y2RGYzExYzBjYjcvY2ViODBhNzJjZTZjNWM0My5wbmcSCTQtdHlfMF81NTACOPCLekIQCgzljY7luJ3ngbblhbcQAUIQCgzpkpzmg6DmnaXooq0QAkIQCgznq4vljbPmiqLotK0QBkIHCgPmiqIQB1j2jpIC/cr/s/q.jpg"
+    },
+    {
+      "id": 6,
+      "link": "HomeImage",
+      "src": "https://img13.360buyimg.com/pop/s1180x940_jfs/t1/209882/30/34124/63118/6458e2c3Ff819f571/b83a44302dc40869.png.webp"
+    },
+    {
+      "id": 7,
+      "link": "HomeImage",
+      "src": "https://imgcps.jd.com/ling-cubic/ling4/lab/amZzL3QxLzEzMDg0NS8zLzM2NDk2LzExMDc4My82NDYwOWU3MEZhYjJlZjg0Yi9kNWFlZGZmZWMzZThlYTZlLnBuZw/5Lqs6YCJ5aW96LSn/5L2g5YC85b6X5oul5pyJ/1635183804528672769/cr/s/q.jpg"
+    },
+    {
+      "id": 8,
+      "link": "HomeImage",
+      "src": "https://imgcps.jd.com/ling-cubic/ling4/lab/amZzL3QxLzQ5MTQzLzI4LzE3MDM2LzIxOTg4OS82MTM4NDhkNkU2MDY1ZWM5OC9iM2I4ZWE1ODE5MmQzNmI0LnBuZw/5Lqs6YCJ5aW96LSn/5L2g5YC85b6X5oul5pyJ/1635189098729897986/cr/s/q.jpg"
+    }
+  ],
+  "NormalUsers": [
+    {
+      "name": "666",
+      "IdNumber": "666",
+      "PassWord": "666",
+      "id": 3,
+      "email": "666@qq.com"
+    }
+  ],
+  "Shops": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "link": "Shops"
+    },
+    {
+      "id": 2,
+      "name": "OPPO",
+      "link": "Shops"
+    },
+    {
+      "id": 3,
+      "name": "华为",
+      "link": "Shops"
+    },
+    {
+      "id": 4,
+      "name": "Vivo",
+      "link": "Shops"
+    },
+    {
+      "id": 5,
+      "name": "格力",
+      "link": "Shops"
+    },
+    {
+      "id": 6,
+      "name": "美的",
+      "link": "Shops"
+    },
+    {
+      "id": 7,
+      "name": "联想",
+      "link": "Shops"
+    },
+    {
+      "id": 8,
+      "name": "小米",
+      "link": "Shops"
+    },
+    {
+      "id": 9,
+      "name": "魅族",
+      "link": "Shops"
+    }
+  ],
+  "ShopLabs": [
+    {
+      "id": 1,
+      "name": "京东超市",
+      "link": "ShopLabs"
+    },
+    {
+      "id": 2,
+      "name": "京东家电",
+      "link": "ShopLabs"
+    },
+    {
+      "id": 3,
+      "name": "秒杀",
+      "link": "ShopLabs"
+    },
+    {
+      "id": 4,
+      "name": "拍卖",
+      "link": "ShopLabs"
+    },
+    {
+      "id": 5,
+      "name": "京东生鲜",
+      "link": "ShopLabs"
+    },
+    {
+      "id": 6,
+      "name": "PLUS会员",
+      "link": "ShopLabs"
+    },
+    {
+      "id": 7,
+      "name": "电脑数码",
+      "link": "ShopLabs"
+    }
+  ],
+  "JDnews": [
+    {
+      "id": 1,
+      "title": "热搜",
+      "body": "华硕灵耀14 2023：2.8K OLED高刷屏轻薄本"
+    },
+    {
+      "id": 2,
+      "title": "最新",
+      "body": "设宴选酒没头绪？摘要酱香白酒就不错"
+    },
+    {
+      "id": 3,
+      "title": "最新",
+      "body": "MAM美安萌Supreme安抚奶嘴，谁用谁香！"
+    },
+    {
+      "id": 4,
+      "title": "最新",
+      "body": "几乎没有短板，不想经常换手机就选这4部手机"
+    }
+  ],
+  "WeiNiTuiJian": [
+    {
+      "id": 1,
+      "src": "https://img12.360buyimg.com/jdcms/s150x150_jfs/t1/181223/39/34726/56441/642ab6afFbf628636/9d45bfa1bb42ff1c.jpg.webp",
+      "price": "￥4999.00",
+      "name": "ThinkPad E14 英特尔酷睿版 轻薄便携商务办公联想笔记本电脑 定制：i5-1240P 16G 512G Win11 锐炬Xe显卡"
+    },
+    {
+      "id": 2,
+      "src": "https://img14.360buyimg.com/jdcms/s300x300_jfs/t1/148949/6/35656/88464/64844247F0f00b6fc/fac692c72b40ed87.jpg.webp",
+      "price": "￥3399.00",
+      "name": "机械革命 无界14锐龙版 14英寸全面屏轻薄办公商务本游戏大学生笔记本电脑 (8核R7/5700U 16G 512  ) 银"
+    },
+    {
+      "id": 3,
+      "src": "https://img12.360buyimg.com/jdcms/s300x300_jfs/t1/66039/30/23806/62586/63c0f6bfFbd81cc21/4a6fcbf675deb8a1.jpg.webp",
+      "price": "￥1699.00",
+      "name": "海尔（haier）笔记本电脑超轻薄本学生便携手提电脑游戏本四核超级本窄边框男女生款商务办公专用上网本 【15.6英寸】升级英特尔四核12G内存+IPS屏 128G(单频wifi)"
+    },
+    {
+      "id": 4,
+      "src": "https://img10.360buyimg.com/jdcms/s300x300_jfs/t1/155505/23/37015/57090/64898977F1dc673d3/e1e921e8124fb7d0.jpg.webp",
+      "price": "￥198.00",
+      "name": "ETC助手2023新款隐藏式免贴玻璃智能无卡etc全国通用高速汽车etc设备微信 隐藏款|更小|0.18秒抬杆"
+    },
+    {
+      "id": 5,
+      "src": "https://img30.360buyimg.com/jdcms/s300x300_jfs/t1/35301/30/19283/95802/6487c131F5a645b88/131625869d3f624f.jpg.webp",
+      "price": "￥3399.00",
+      "name": "ThinkPad联想ThinkBook 14 轻薄本 商务办公学生便携手提笔记本电脑 i5-1155G7 16G 512G丨定制 Win11 Office FHD 背光键盘"
+    },
+    {
+      "id": 6,
+      "src": "https://img11.360buyimg.com/jdcms/s300x300_jfs/t1/200243/13/42308/129470/646d80ddFf175c0be/290ed70fecba269e.jpg.webp",
+      "price": "￥67.00",
+      "name": "马可波罗（MARCO POLO）防滑地砖全抛釉客厅瓷砖 卡帕灰（按整箱购买） MH88MS030 卡帕灰单片"
+    },
+    {
+      "id": 7,
+      "src": "https://img20.360buyimg.com/jdcms/s300x300_jfs/t1/146499/38/34758/68839/63ed920dFbb03a54f/7d1cc9d7574e7ee2.jpg.webp",
+      "price": "￥3197.00",
+      "name": "宏碁（acer） 酷睿12代i7-12700台式电脑办公商用游戏绘图设计整机家用电脑主机全套 主机+宏碁23.8英寸显示屏 【高配办公】12代I3四核+12G内存+256G"
+    },
+    {
+      "id": 8,
+      "src": "https://img20.360buyimg.com/jdcms/s300x300_jfs/t1/120784/8/34562/62744/6479fb33F5a6b52ff/ff4b1064e79cb59b.jpg.webp",
+      "price": "￥13.20",
+      "name": "京黔（jingqian）声控小夜灯智能语音灯床头卧室夜灯婴儿喂奶氛围灯控制感应小台灯 语音控制（可定时+三色光） 默认2"
+    },
+    {
+      "id": 9,
+      "src": "https://img10.360buyimg.com/jdcms/s300x300_jfs/t1/7344/40/20710/134298/63a6eacaE8c131d1e/eea730a0ad50d047.jpg.webp",
+      "price": "￥4398.00",
+      "name": "酷睿i7+独显 15.6英寸12代高配金属笔记本电脑轻薄本商务学生上网课IRU国行超薄便携游戏本手提 指纹解锁 酷睿i7-1185G7+MX450独显 16G内存/1024G固态硬盘"
+    },
+    {
+      "id": 10,
+      "src": "https://img10.360buyimg.com/jdcms/s300x300_jfs/t1/153423/37/35725/150317/6489e420F16608c02/5b1ecdf62b9718e4.jpg.webp",
+      "price": "￥10.00",
+      "name": "卡提菲亚商品补价_定制地毯 定制商品补价"
+    },
+    {
+      "id": 11,
+      "src": "https://img13.360buyimg.com/jdcms/s300x300_jfs/t1/106210/14/36405/107203/644e9a59Fd2e26bb7/c2265ca1b5531960.jpg.webp",
+      "price": "￥4299.00",
+      "name": "惠普 战66 六代 酷睿14英寸 16G 1T"
+    },
+    {
+      "id": 12,
+      "src": "https://img12.360buyimg.com/jdcms/s300x300_jfs/t1/97631/27/38359/338463/6421b375F1807aa32/f32d174fce11fd8e.jpg.webp",
+      "price": "￥13.80",
+      "name": "亚麻墙布无缝全屋素色简约现代客厅卧室轻奢风格新中式壁布纯色灰 A- 2 浅米色"
+    },
+    {
+      "id": 13,
+      "src": "https://img12.360buyimg.com/jdcms/s300x300_jfs/t1/107487/15/25226/397277/6489af51F817c5598/ed1c6ca76bfb1858.png.webp",
+      "price": "￥3899.00",
+      "name": "七彩虹（Colorful）将星X15 游戏笔记本电脑12代酷睿标压学生PS设计高刷电竞本 灰色 新8核i5-12450H 16G 512G官标 满血RTX3050电竞独显 15.6英寸"
+    },
+    {
+      "id": 14,
+      "src": "https://img11.360buyimg.com/jdcms/s300x300_jfs/t1/175557/21/36414/75071/644ce550Fc1049d2d/eab91a6cff21b96b.jpg.webp",
+      "price": "￥23.00",
+      "name": "脚踩高压打气筒迷你便携式电动车自行车摩托车汽车家用脚踏充气泵 金色 不带气压表"
+    },
+    {
+      "id": 15,
+      "src": "https://img11.360buyimg.com/jdcms/s300x300_jfs/t1/112898/36/38505/88198/645b425fF91aea419/d6d977b391c5838b.jpg.webp",
+      "price": "￥3999.00",
+      "name": "华硕无畏16 AMD标压R7 16英寸大屏办公高性能网课轻薄笔记本(R7-5800H 16G 512G 莱茵护眼防眩光)银"
+    }
+  ],
+  "Token": [
+    {
+      "id": 1,
+      "name": "YWJ",
+      "IdNumber": "ywj666",
+      "token": "666"
+    }
+  ],
+  "Status": [
+    {
+      "id": 1,
+      "statu": false,
+      "name": ""
+    }
+  ]
+}
